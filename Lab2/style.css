@@ -1,0 +1,39 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    color: #464A4E;
+}
+.title{
+    padding-left: 25px;
+    padding-bottom: 25px;
+    background-color: #F4F4F4;
+    width: 100%;
+    font-size: larger;
+}
+hr{
+    width: 90%;
+}
+.skills{
+    display:inline-block;
+    margin: 10px 10px;
+    padding: 5px;
+}
+ul{
+    list-style-type: circle;
+    padding-left: 70px;
+    width: 200px;
+}
+.edu{
+    display: inline-block;
+    margin: 100px;
+    padding: 5px;
+    width: 300px;
+}
+.pattern{
+    opacity: 0.8;
+    background-image: radial-gradient(#575981 0.75px, #fffffe 0.75px);
+    background-size: 15px 15px;
+}
+.intro1{
+    padding-left: 70px;
+    width: 1000px;
+}
